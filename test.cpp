@@ -7,7 +7,7 @@ return 0;
 
 }
 void change(){
-	puts("Change_one");
+	puts("Change_one_two_three");
 	puts("Korey_test Change it!!!");
 
 }
