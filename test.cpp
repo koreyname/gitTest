@@ -7,6 +7,6 @@ return 0;
 
 }
 void change(){
-	puts("This is a modified function");
+	puts("I can change the Message");
 
 }
