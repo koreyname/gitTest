@@ -7,6 +7,6 @@ return 0;
 
 }
 void change(){
-	puts("I Issue No No NO it change the Message Again!!");
+	puts("Korey_test Change it!!!");
 
 }
