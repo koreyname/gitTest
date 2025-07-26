@@ -8,5 +8,6 @@ return 0;
 }
 void change(){
 	puts("Master Change!!!");
+	puts("Korey_test Change it!!!");
 
 }
